@@ -1,0 +1,135 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1,font=\Large]
+%uncomment if require: \path (0,468); %set diagram left start at 0, and has height of 468
+
+%Image [id:dp5497698211746352] 
+\draw (330.53,225.06) node  {\includegraphics[width=380.3pt,height=337.08pt]{./images/Motor1.png}};
+%Straight Lines [id:da9480369678667772] 
+\draw    (209.22,332.96) -- (340.11,295.93) ;
+\draw [shift={(343,295.11)}, rotate = 164.2] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+\draw [shift={(206.33,333.78)}, rotate = 344.2] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da6653306244986675] 
+\draw    (234.31,209.81) -- (246.2,252.89) ;
+\draw [shift={(247,255.78)}, rotate = 254.57] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+\draw [shift={(233.52,206.92)}, rotate = 74.57] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da8546198833799579] 
+\draw    (184.99,278.14) -- (198.2,325.55) ;
+\draw [shift={(199,328.44)}, rotate = 254.44] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+\draw [shift={(184.18,275.25)}, rotate = 74.44] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da31503559926731983] 
+\draw    (145.85,267.39) -- (138.82,258.16) ;
+\draw [shift={(137,255.78)}, rotate = 52.7] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+\draw [shift={(147.67,269.78)}, rotate = 232.7] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+%Straight Lines [id:da5859826705918861] 
+\draw    (146.1,275.53) -- (134.87,261.46) ;
+\draw [shift={(133,259.11)}, rotate = 51.41] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+\draw [shift={(147.97,277.87)}, rotate = 231.41] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+%Curve Lines [id:da4301682176344188] 
+\draw    (248,205.73) .. controls (286.13,193.96) and (320.02,190.9) .. (360.51,194.86) ;
+\draw [shift={(363,195.11)}, rotate = 185.95] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+\draw [shift={(245,206.67)}, rotate = 342.33] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Curve Lines [id:da789394158652907] 
+\draw    (363,195.11) .. controls (366.39,195.86) and (368.16,195.9) .. (372.16,196.82) ;
+\draw [shift={(369.21,196.21)}, rotate = 12.02] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da4696309911580683] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (241.67,201.78) -- (297.67,415.11) ;
+
+% Text Node
+\draw (282.33,313) node [anchor=north west, rotate=-346, inner sep=0.75pt]   [align=left] {MW};
+% Text Node
+\draw (217.85,238) node [align=left, inner sep=0.75pt, rotate=-346] {MAG};
+% Text Node
+\draw (170,304.33) node  [align=left, inner sep=0.75pt, rotate=-346] {MH};
+% Text Node
+\draw (143,255) node [anchor=north west, inner sep=0.75pt, rotate=-325, align=left] {LW1};
+% Text Node
+\draw (100,290) node [anchor=north west, inner sep=0.75pt, rotate=-318, align=left] {LW2};
+% Text Node
+\draw (366.63,201.53) node [anchor=north west, inner sep=0.75pt, rotate=-8.81, align=left] {Theta2};
+% Text Node
+\draw (286.73,197.82) node [anchor=north west, inner sep=0.75pt, rotate=-354.67, align=left] {Theta1};
+% Text Node
+\draw (510.59,79.47) node [anchor=north west, inner sep=0.75pt, rotate=-25.49, align=left] {$I_1$, $\phi_1$};
+% Text Node
+\draw (348.61,44.6) node [anchor=north west, inner sep=0.75pt, rotate=-3.95, align=left] {$I_2$, $\phi_2$};
+% Text Node
+\draw (190.11,69.24) node [anchor=north west, inner sep=0.75pt, rotate=-343.49, align=left] {$I_3$, $\phi_3$};
+
+
+\end{tikzpicture}
+
+\begin{comment}
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,454); %set diagram left start at 0, and has height of 454
+
+%Image [id:dp49260407341929735] 
+\draw (349.33,215.44) node  {\includegraphics[width=351pt,height=292.34pt]{Motor1.pdf}};
+%Straight Lines [id:da9308381453176626] 
+\draw    (236.9,309.22) -- (358.1,276.78) ;
+\draw [shift={(361,276)}, rotate = 165.01] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (7.14,-3.43) -- (0,0) -- (7.14,3.43) -- cycle    ;
+\draw [shift={(234,310)}, rotate = 345.01] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (7.14,-3.43) -- (0,0) -- (7.14,3.43) -- cycle    ;
+%Straight Lines [id:da07956032012106085] 
+\draw    (225.24,302.1) -- (214.76,261.9) ;
+\draw [shift={(214,259)}, rotate = 75.38] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (7.14,-3.43) -- (0,0) -- (7.14,3.43) -- cycle    ;
+\draw [shift={(226,305)}, rotate = 255.38] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (7.14,-3.43) -- (0,0) -- (7.14,3.43) -- cycle    ;
+%Straight Lines [id:da2032973534047543] 
+\draw    (282.59,238.09) -- (272.08,196.91) ;
+\draw [shift={(271.33,194)}, rotate = 75.68] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (7.14,-3.43) -- (0,0) -- (7.14,3.43) -- cycle    ;
+\draw [shift={(283.33,241)}, rotate = 255.68] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (7.14,-3.43) -- (0,0) -- (7.14,3.43) -- cycle    ;
+%Straight Lines [id:da2974395064842795] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (501,224.29) -- (425.37,350.64) ;
+%Curve Lines [id:da623233664612972] 
+\draw    (418.31,242.72) .. controls (433.74,246.83) and (464.71,259.74) .. (475,266.29) ;
+\draw [shift={(415.33,242)}, rotate = 12.09] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (7.14,-3.43) -- (0,0) -- (7.14,3.43) -- cycle    ;
+%Shape: Rectangle [id:dp3728268802392448] 
+\draw  [fill={rgb, 255:red, 240; green, 240; blue, 240 }  ,fill opacity=1 ] (437,302) -- (582,302) -- (582,407) -- (437,407) -- cycle ;
+%Shape: Rectangle [id:dp5561427244148698] 
+\draw  [fill={rgb, 255:red, 233; green, 80; blue, 62 }  ,fill opacity=1 ] (443.57,332) -- (492,332) -- (492,352) -- (443.57,352) -- cycle ;
+%Shape: Rectangle [id:dp2864673847712851] 
+\draw  [fill={rgb, 255:red, 179; green, 179; blue, 179 }  ,fill opacity=1 ] (443.57,307) -- (492,307) -- (492,327) -- (443.57,327) -- cycle ;
+%Shape: Rectangle [id:dp28808564632557776] 
+\draw  [fill={rgb, 255:red, 0; green, 156; blue, 218 }  ,fill opacity=1 ] (443.57,357) -- (492,357) -- (492,377) -- (443.57,377) -- cycle ;
+%Shape: Rectangle [id:dp34697143371347017] 
+\draw  [fill={rgb, 255:red, 0; green, 113; blue, 94 }  ,fill opacity=1 ] (443.57,382) -- (492,382) -- (492,402) -- (443.57,402) -- cycle ;
+
+% Text Node
+\draw (136,157.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 221; green, 223; blue, 72 }  ,opacity=1 ]  {$\Gamma _{\mathrm{ap}}$};
+% Text Node
+\draw (187,349.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 221; green, 223; blue, 72 }  ,opacity=1 ]  {$\Gamma _{\mathrm{ap}}$};
+% Text Node
+\draw (145,219.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 230; green, 0; blue, 26 }  ,opacity=1 ]  {$\Gamma _{\mathrm{ag}}$};
+% Text Node
+\draw (453,207.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 230; green, 0; blue, 26 }  ,opacity=1 ]  {$\Gamma _{\mathrm{ag}}$};
+% Text Node
+\draw (547,163.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 221; green, 223; blue, 72 }  ,opacity=1 ]  {$\Gamma _{\mathrm{ap}}$};
+% Text Node
+\draw (406,282.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 221; green, 223; blue, 72 }  ,opacity=1 ]  {$\Gamma _{\mathrm{ap}}$};
+% Text Node
+\draw (163.38,33.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 0; green, 131; blue, 204 }  ,opacity=1 ]  {$\Gamma _{\mathrm{d}}$};
+% Text Node
+\draw (322.71,385.83) node [anchor=north west][inner sep=0.75pt]  [font=\small,color={rgb, 255:red, 0; green, 131; blue, 204 }  ,opacity=1 ]  {$\Gamma _{\mathrm{d}}$};
+% Text Node
+\draw (290.9,296.38) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize] [align=left] {MW};
+% Text Node
+\draw (242.55,216.32) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize] [align=left] {MAG};
+% Text Node
+\draw (195.92,275.63) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize] [align=left] {MH};
+% Text Node
+\draw (432,257.6) node [anchor=north west][inner sep=0.75pt]    {$\alpha $};
+% Text Node
+\draw (507,309) node [anchor=north west][inner sep=0.75pt]   [align=left] {Iron};
+% Text Node
+\draw (505,334) node [anchor=north west][inner sep=0.75pt]   [align=left] {Copper};
+% Text Node
+\draw (506,359) node [anchor=north west][inner sep=0.75pt]   [align=left] {Air};
+% Text Node
+\draw (504,384) node [anchor=north west][inner sep=0.75pt]   [align=left] {Magnet};
+
+
+\end{tikzpicture}
+\end{comment}
