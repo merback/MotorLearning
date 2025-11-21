@@ -105,6 +105,6 @@ Run:
 python analyze_net.py true true
 ```
 Then:
-```matlab
-computeErrors(true, true)
+```bash
+matlab -batch "computeErrors(true, true)"
 ```
