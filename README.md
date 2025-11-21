@@ -98,7 +98,7 @@ Arguments:
 ---
 
 ## Reproducing Paper Results
-Download the training, testing, and validation data as well as the two files *MatrixK_full.csv* and *MatrixK_gap.csv* from Zenodo and put them into the main folder:
+Download the training, testing, and validation data as well as the two files *MatrixK_full.csv* and *MatrixK_gap.csv* from [Zenodo](https://doi.org/10.5281/zenodo.17669237) and put them into the main folder:
 
 Run:
 ```bash
